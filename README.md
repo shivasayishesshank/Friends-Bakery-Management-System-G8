@@ -1,2 +1,2 @@
-# Friends-Bakery-Management-System-G8
+# Friends-Bakery-Management-System
 Software engineering project
