@@ -55,6 +55,16 @@ Friends Bakery Management System offer a wide range of features to help with bak
 
    ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/035a1aad-78bf-469a-a911-9a48335d0f6b)
 
+   **3.e.Sales:** The sales module gives information about bakery sales performance and trends. It may contain capabilities for creating sales reports, analysing sales data by product, category, or time period, finding best-selling items, and anticipating sales patterns to help with inventory management and business decisions.
+
+   ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/803379d9-8076-40ee-9c27-006cecd5b684)
+
+
+   **3.f.User Management:** The user management module enables bakery administrators to manage user accounts and permissions in the system. It could include capabilities for creating user profiles, assigning roles and access levels, resetting passwords, and monitoring user behaviour.
+
+   ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/01f0cf15-7188-4835-b132-e6573a7fbdc1)
+
+   
 
 
 7. Project Demo :
