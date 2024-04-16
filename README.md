@@ -53,7 +53,8 @@ Friends Bakery Management System offer a wide range of features to help with bak
 
    **3.d.Point of Sale (POS):** The POS module simplifies sales transactions at the bakery's physical or online location. It is likely to include tools for processing orders, accepting payments (cash, credit/debit cards, digital wallets), creating invoices or receipts, applying discounts or promotions, and handling customer interactions at the point of sale.
 
-   ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/f1eb3e14-c168-4e5c-9e14-67d75040afed)
+   ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/035a1aad-78bf-469a-a911-9a48335d0f6b)
+
 
 
 7. Project Demo :
