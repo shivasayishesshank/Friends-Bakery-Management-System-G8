@@ -2,7 +2,7 @@ Friends Bakery Management System (FBMS)
 
 Table of Contents
 
-1. [Introduction](README.md#introduction)
+1. [Introduction](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/README.md#introduction)
 
 
 2. [What is FBMS?]
