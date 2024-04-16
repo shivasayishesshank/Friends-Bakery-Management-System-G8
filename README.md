@@ -7,7 +7,7 @@ Table of Contents
 
 2. [What is FBMS?](?tab=README.md#What-is-FBMS)
 
-3. [Architecture]
+3. [Architecture](?tab=README.md#Architecture)
 
 4. FBMS Installation
 
