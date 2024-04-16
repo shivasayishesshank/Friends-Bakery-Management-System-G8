@@ -69,6 +69,7 @@ Friends Bakery Management System offer a wide range of features to help with bak
 
 
 **4. FBMS Usage :**
+  
    **4.a. Installation:** FBMS is a software application, follow the installation instructions provided with the software. This may involve downloading and installing the application on your computer or server.
 
   **4.b. Login:** If the FBMS requires user authentication, you'll typically need to log in with your username and password. Some systems may provide options for single sign-on (SSO) or other authentication methods.
