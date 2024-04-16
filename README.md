@@ -5,7 +5,7 @@ Table of Contents
 1. [Introduction](?tab=README.md#introduction)
 
 
-2. [What is FBMS?](?tab=README.md#What is FBMS)
+2. [What is FBMS?](?tab=README.md#What-is-FBMS)
 
 3. [Architecture]
 
