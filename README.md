@@ -46,7 +46,14 @@ Friends Bakery Management System offer a wide range of features to help with bak
 
    ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/748a54fc-aba8-4ad5-baa4-f8110def355d)
 
+   **3.c.Stocks:** The stocks module allows bakery employees to track and manage the inventory of ingredients, raw materials, and other baking supplies. It could contain tools for tracking stock levels, receiving and documenting deliveries, establishing reorder points, and creating reports on stock movements and inventory levels.
 
+   ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/be878758-e71c-4d4a-81d2-5f51f3cb9ab0)
+
+
+   **3.d.Point of Sale (POS):** The POS module simplifies sales transactions at the bakery's physical or online location. It is likely to include tools for processing orders, accepting payments (cash, credit/debit cards, digital wallets), creating invoices or receipts, applying discounts or promotions, and handling customer interactions at the point of sale.
+
+   ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/f1eb3e14-c168-4e5c-9e14-67d75040afed)
 
 
 7. Project Demo :
