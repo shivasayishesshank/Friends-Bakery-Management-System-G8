@@ -68,7 +68,29 @@ Friends Bakery Management System offer a wide range of features to help with bak
    ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/e72c70cc-0c2b-4a37-8764-f3004ae059bc)
 
 
-4. 
+**4. FBMS Usage :**
+   **4.a. Installation:** FBMS is a software application, follow the installation instructions provided with the software. This may involve downloading and installing the application on your computer or server.
+
+  **4.b. Login:** If the FBMS requires user authentication, you'll typically need to log in with your username and password. Some systems may provide options for single sign-on (SSO) or other authentication methods.
+
+**4.c. Navigation:** Once logged in, familiarize yourself with the user interface of FBMS. Navigate through the different sections or modules to access the features you need.
+  Common sections/modules in FBMS may include:
+  Home/dashboard: Overview of bakery operations and key metrics.
+  Products: Manage bakery products, including adding, editing, and deleting products.
+  Inventory/Stocks: Manage inventory levels, track stock movements, and receive alerts for low stock.
+  Point of Sale (POS): Process customer orders, manage payments, and generate invoices.
+  Sales: View sales reports, analyze sales data, and track performance.
+  Users: Manage user accounts, roles, and permissions (if applicable).
+  Maintenance: Perform system maintenance tasks such as backups or updates (if applicable).
+
+**4.d. Usage:** Use the features provided by FBMS according to your bakery's needs.
+For example, you can add new bakery products to the system, manage inventory levels, process customer orders at the POS, view sales reports to track performance, and manage user accounts and permissions.
+
+**4.e. Customization:** Depending on the FBMS, there may be options for customization to tailor the system to your bakery's specific requirements. Explore any customization options available within the system.
+
+**4.f. Support and Training:** If needed, seek support or training resources provided by the FBMS vendor or developer. This may include user manuals, documentation, tutorials, or customer support channels.
+
+**4.g. Feedback and Improvement:** Provide feedback on your experience using FBMS. If you encounter any issues or have suggestions for improvement, communicate them to the FBMS vendor or developer. Your feedback can help improve the system for future users.
 
 
 **5. Project Demo :**
