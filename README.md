@@ -2,11 +2,11 @@ Friends Bakery Management System (FBMS)
 
 Table of Contents
 
-1. Introduction
+1. [Introduction]
 
-2. What is FBMS?
+2. [What is FBMS?]
 
-3. Architecture
+3. [Architecture]
 
 4. FBMS Installation
 
