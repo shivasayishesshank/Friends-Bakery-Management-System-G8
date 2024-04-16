@@ -1,13 +1,21 @@
 Friends Bakery Management System (FBMS)
+
 Table of Contents
+
 1.Introduction
+
 2.What is BMS?
+
 3.Architecture
+
 4.FBMS Installation
+
 5.Prerequisites
   Edit Configuration
   Deployment
+
 6.FBMS Usage
+
 7.Demo
 
 **1. Introduction :**
