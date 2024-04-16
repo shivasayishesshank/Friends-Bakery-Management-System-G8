@@ -9,9 +9,9 @@ Table of Contents
 
 3. [Architecture](?tab=README.md#Architecture)
 
-4. FBMS Usage
+4. [FBMS Usage](?tab=README.md#FBMS-Usage)
 
-5. Project Demo
+5. [Project Demo](?tab=README.md#Project-Demo)
 
 **1. introduction :**
 
@@ -68,8 +68,10 @@ Friends Bakery Management System offer a wide range of features to help with bak
    ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/e72c70cc-0c2b-4a37-8764-f3004ae059bc)
 
 
+4. 
 
-5. Project Demo :
+
+**5. Project Demo :**
 
 
 
