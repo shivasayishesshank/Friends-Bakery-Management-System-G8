@@ -46,25 +46,32 @@ Friends Bakery Management System offer a wide range of features to help with bak
 
    ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/748a54fc-aba8-4ad5-baa4-f8110def355d)
 
-   **3.c.Stocks:** The stocks module allows bakery employees to track and manage the inventory of ingredients, raw materials, and other baking supplies. It could contain tools for tracking stock levels, receiving and documenting deliveries, establishing reorder points, and creating reports on stock movements and inventory levels.
+   **3.c. Stocks:** The stocks module allows bakery employees to track and manage the inventory of ingredients, raw materials, and other baking supplies. It could contain tools for tracking stock levels, receiving and documenting deliveries, establishing reorder points, and creating reports on stock movements and inventory levels.
 
    ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/be878758-e71c-4d4a-81d2-5f51f3cb9ab0)
 
 
-   **3.d.Point of Sale (POS):** The POS module simplifies sales transactions at the bakery's physical or online location. It is likely to include tools for processing orders, accepting payments (cash, credit/debit cards, digital wallets), creating invoices or receipts, applying discounts or promotions, and handling customer interactions at the point of sale.
+   **3.d. Point of Sale (POS):** The POS module simplifies sales transactions at the bakery's physical or online location. It is likely to include tools for processing orders, accepting payments (cash, credit/debit cards, digital wallets), creating invoices or receipts, applying discounts or promotions, and handling customer interactions at the point of sale.
 
    ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/035a1aad-78bf-469a-a911-9a48335d0f6b)
 
-   **3.e.Sales:** The sales module gives information about bakery sales performance and trends. It may contain capabilities for creating sales reports, analysing sales data by product, category, or time period, finding best-selling items, and anticipating sales patterns to help with inventory management and business decisions.
+   **3.e. Sales:** The sales module gives information about bakery sales performance and trends. It may contain capabilities for creating sales reports, analysing sales data by product, category, or time period, finding best-selling items, and anticipating sales patterns to help with inventory management and business decisions.
 
    ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/803379d9-8076-40ee-9c27-006cecd5b684)
 
 
-   **3.f.User Management:** The user management module enables bakery administrators to manage user accounts and permissions in the system. It could include capabilities for creating user profiles, assigning roles and access levels, resetting passwords, and monitoring user behaviour.
+   **3.f. User Management:** The user management module enables bakery administrators to manage user accounts and permissions in the system. It could include capabilities for creating user profiles, assigning roles and access levels, resetting passwords, and monitoring user behaviour.
 
    ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/01f0cf15-7188-4835-b132-e6573a7fbdc1)
 
-   
+   **3.g. Maintenance:** The maintenance module helps to keep the bakery management system in good working order. It could include capabilities for software updates, database backups, system configuration, and addressing technical problems.
+
+   ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/c5662c91-8fbc-4a8d-a02b-8a804a1485fb)
+
+   **3.f. Account/Signin :** Allow users to access and edit their profile information, such as altering contact information, passwords, and account preferences.
+
+   ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/e72c70cc-0c2b-4a37-8764-f3004ae059bc)
+
 
 
 7. Project Demo :
