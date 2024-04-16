@@ -13,6 +13,7 @@ Table of Contents
 1. Introduction
 In this section, briefly introduce the Friends Bakery Management System and its importance in streamlining bakery operations.
 A Friends Bakery Management System is a software solution that simplifies and automates numerous parts of bakery operations. It combines inventory management, sales tracking, order processing, billing, customer relationship management, and reporting into a one platform. A FBMS uses technology to simplify bakery management, increase operational efficiency, and improve customer service.
+
 ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/f1b8a4f9-8e7e-4501-a1d8-49c1e2151b35)
 
 
