@@ -39,7 +39,13 @@ Friends Bakery Management System offer a wide range of features to help with bak
 
    **3.a. Home:** The bakery management system's home area is likely to serve as the dashboard or main interface, from which users can access numerous capabilities    and browse to different modules. It may include an overview of critical metrics, notifications, and shortcuts to frequently used functionality.
 
+   ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/9e9da416-95b2-4d69-ae84-0ec7585c427a)
+
+
    **3.b. Products:** The products module enables bakery employees to manage their inventory of bakery products. It is likely to have functionality for adding new items, updating product details (such as name, description, and price), categorising products, setting stock levels, and managing product variants (for example, different flavours or sizes).
+
+   ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/748a54fc-aba8-4ad5-baa4-f8110def355d)
+
 
 
 
