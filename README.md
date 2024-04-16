@@ -2,7 +2,7 @@ Friends Bakery Management System (FBMS)
 
 Table of Contents
 
-1. [Introduction](readme.md#introduction)
+1. [Introduction](README.md#introduction)
 
 
 2. [What is FBMS?]
