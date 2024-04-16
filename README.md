@@ -9,15 +9,9 @@ Table of Contents
 
 3. [Architecture](?tab=README.md#Architecture)
 
-4. FBMS Installation
+4. FBMS Usage
 
-5. Prerequisites
-   Edit Configuration
-   Deployment
-
-6. FBMS Usage
-
-7. Demo
+5. Project Demo
 
 **1. introduction :**
 
@@ -75,6 +69,10 @@ Friends Bakery Management System offer a wide range of features to help with bak
 
 
 
-7. Project Demo :
-https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/80a55f59-2517-400e-9b73-1555aefd0f1f
+5. Project Demo :
+
+
+
+
+https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/39bf0295-39ff-4f00-9dcb-188d1ef931dd
 
