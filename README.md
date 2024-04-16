@@ -63,7 +63,7 @@ Friends Bakery Management System offer a wide range of features to help with bak
 
    ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/c5662c91-8fbc-4a8d-a02b-8a804a1485fb)
 
-   **3.f. Account/Signin :** Allow users to access and edit their profile information, such as altering contact information, passwords, and account preferences.
+   **3.h. Account/Signin :** Allow users to access and edit their profile information, such as altering contact information, passwords, and account preferences.
 
    ![image](https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/assets/165432702/e72c70cc-0c2b-4a37-8764-f3004ae059bc)
 
