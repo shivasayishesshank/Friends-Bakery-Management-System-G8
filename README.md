@@ -2,7 +2,8 @@
 
 <h3>Table of Contents</h3>
 
-1. [Introduction](?tab=README.md#introduction)
+1. [Introduction](?tab=<meta http-equiv="refresh" content="0; URL=https://my_user.github.io/cv/home">)
+
 
 2. [What is FBMS?](?tab=README.md#What-is-FBMS)
 
