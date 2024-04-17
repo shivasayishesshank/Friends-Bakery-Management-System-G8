@@ -1,4 +1,4 @@
-Friends Bakery Management System (FBMS)
+# Friends Bakery Management System (FBMS)
 
 Table of Contents
 
