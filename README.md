@@ -1,6 +1,6 @@
 # Friends Bakery Management System (FBMS)
 
-Table of Contents
+<h1>Table of Contents</h1>
 
 1. [Introduction](?tab=README.md#introduction)
 
