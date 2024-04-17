@@ -2,7 +2,7 @@
 
 <h3>Table of Contents</h3>
 
-1. [Introduction](?tab=<meta http-equiv="refresh" content="0; URL=https://my_user.github.io/cv/home">)
+1. [Introduction](?tab="https://github.com/shivasayishesshank/Friends-Bakery-Management-System-G8/introduction")
 
 
 2. [What is FBMS?](?tab=README.md#What-is-FBMS)
