@@ -4,7 +4,6 @@
 
 1. [Introduction](?tab=README.md#introduction)
 
-
 2. [What is FBMS?](?tab=README.md#What-is-FBMS)
 
 3. [Architecture](?tab=README.md#Architecture)
